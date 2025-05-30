@@ -107,6 +107,18 @@ El servidor frontend se ejecutará en `http://localhost:3000`
 - Los tokens JWT expiran después de 24 horas
 - La aplicación está configurada para desarrollo local
 
+
+##IMAGENES
+![1](https://github.com/user-attachments/assets/6843cc15-2fa2-4ce9-8ab1-b61b870f03a9)
+![2](https://github.com/user-attachments/assets/9f1bbd17-2322-4385-8145-2690add28664)
+![3](https://github.com/user-attachments/assets/2b8f8da1-2fb6-455e-a4a3-8197a500c59e)
+![4](https://github.com/user-attachments/assets/7e6a856d-4b53-4145-aad5-193dfeb6853b)
+
+
+https://github.com/user-attachments/assets/f9d08a2e-d51c-4c8f-ac34-a12201a23a84
+
+
+
 ## Contribuir
 
 1. Haz un fork del proyecto
