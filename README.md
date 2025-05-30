@@ -1,4 +1,4 @@
-# Gestor de Tareas
+# Gestor de Tareas Con Autenticación
 
 Una aplicación web full-stack para gestionar tareas personales, construida con Next.js, Flask y Tailwind CSS.
 
