@@ -27,3 +27,5 @@ class Task(db.Model):
             'updated_at': self.updated_at.isoformat(),
             'user_id': self.user_id
         } 
+    
+    
